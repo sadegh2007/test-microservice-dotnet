@@ -5,6 +5,7 @@ using TestMicro.Core.OpenApi;
 using TestMicro.UserManagement;
 using TestMicro.UserManagement.Configuration;
 using TestMicro.UserManagement.Data;
+using TestMicro.UserManagement.Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,7 +26,7 @@ builder.Services.AddTestMicroExceptionHandler();
 
 builder.Services.AddMigration<UserDbContext>();
 
-// builder.Services.ConfigureHttpJsonOptions(options => { options.SerializerOptions.TypeInfoResolverChain.Add(UsersJsonContext.Default); });
+builder.Services.ConfigureHttpJsonOptions(options => { options.SerializerOptions.TypeInfoResolverChain.Add(UsersJsonContext.Default); });
 
 var app = builder.Build();
 

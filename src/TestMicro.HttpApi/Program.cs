@@ -1,3 +1,5 @@
+using Gridify;
+using Microsoft.AspNetCore.Mvc;
 using TestMicro.Core.ExceptionHandler;
 using TestMicro.Core.OpenApi;
 using TestMicro.UserManagement.HttpClient;
@@ -32,8 +34,8 @@ var summaries = new[]
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 };
 
-app.MapGet("/test-user", async (IUsersHttpApi usersHttpApi, CancellationToken token = default) 
-    => await usersHttpApi.GetAsync(token));
+app.MapGet("/test-users", async ([AsParameters] GridifyQuery query, IUsersHttpApi usersHttpApi, CancellationToken token = default) 
+    => await usersHttpApi.ListAsync(query, token));
 
 app.MapGet("/weatherforecast", () =>
     {
