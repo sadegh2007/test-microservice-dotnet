@@ -15,24 +15,8 @@ builder.Services.AddReverseProxy().LoadFromMemory(routes, clusters);
 builder.Services.AddServiceDiscovery();
 builder.Services.AddHttpForwarderWithServiceDiscovery();
 
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("customPolicy", policyBuilder =>
-    {
-        policyBuilder.AllowAnyOrigin();
-    });
-});
-
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-// if (app.Environment.IsDevelopment())
-// {
-//     app.UseSwagger();
-//     app.UseSwaggerUI();
-// }
-
-app.UseCors();
 app.MapReverseProxy();
 
 app.UseSwaggerUI(options =>

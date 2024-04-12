@@ -1,9 +1,11 @@
 using TestMicro.Core.ExceptionHandler;
+using TestMicro.Core.OpenApi;
 using TestMicro.UserManagement.HttpClient;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.AddServiceDefaults();
+builder.AddDefaultOpenApi();
 
 builder.Services.AddUsersHttpClients();
 
