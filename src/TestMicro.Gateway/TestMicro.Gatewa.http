@@ -1,0 +1,6 @@
+@TestMicro.Gatewa_HostAddress = http://localhost:5208
+
+GET {{TestMicro.Gatewa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

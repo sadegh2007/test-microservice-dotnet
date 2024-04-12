@@ -1,0 +1,11 @@
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/bin/Debug/net8.0/TestMicro.Core.Data.Abstractions.deps.json
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/bin/Debug/net8.0/TestMicro.Core.Data.Abstractions.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/bin/Debug/net8.0/TestMicro.Core.Data.Abstractions.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/TestMicro.Core.Data.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/TestMicro.Core.Data.Abstractions.AssemblyInfoInputs.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/TestMicro.Core.Data.Abstractions.AssemblyInfo.cs
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/TestMicro.Core.Data.Abstractions.csproj.CoreCompileInputs.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/TestMicro.Core.Data.Abstractions.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/refint/TestMicro.Core.Data.Abstractions.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/TestMicro.Core.Data.Abstractions.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data.Abstractions/obj/Debug/net8.0/ref/TestMicro.Core.Data.Abstractions.dll

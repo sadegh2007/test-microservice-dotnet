@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nDvMh1Qs1RH9NcexGrEmoNXLvfdGEhKMHfsI/JjWO3yLF67Hwuf5jaJg2h3qkFmNibzt8CwrwQkHq61btpnV9w==",
+  "success": true,
+  "projectFilePath": "/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Shared/TestMicro.Core.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/sadeqhajizadeh/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/sadeqhajizadeh/.nuget/packages/meziantou.framework.stronglytypedid/2.2.0/meziantou.framework.stronglytypedid.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

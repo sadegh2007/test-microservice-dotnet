@@ -1,0 +1,12 @@
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/bin/Debug/net8.0/TestMicro.ServiceDefaults.deps.json
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/bin/Debug/net8.0/TestMicro.ServiceDefaults.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/bin/Debug/net8.0/TestMicro.ServiceDefaults.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.AssemblyInfo.cs
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/refint/TestMicro.ServiceDefaults.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/TestMicro.ServiceDefaults.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.ServiceDefaults/obj/Debug/net8.0/ref/TestMicro.ServiceDefaults.dll

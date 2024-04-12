@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NNN70rZkHkwE4jGF5Y6GXBTDrdlBzngUczFsXpbHItE=",
+  "Source": "TestMicro.HttpApi",
+  "BasePath": "_content/TestMicro.HttpApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

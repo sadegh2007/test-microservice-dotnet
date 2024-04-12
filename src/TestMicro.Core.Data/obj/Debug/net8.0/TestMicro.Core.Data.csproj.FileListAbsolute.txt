@@ -1,0 +1,17 @@
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Data.deps.json
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Data.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Data.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Data.Abstractions.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Shared.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Data.Abstractions.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/bin/Debug/net8.0/TestMicro.Core.Shared.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.csproj.AssemblyReference.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.AssemblyInfoInputs.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.AssemblyInfo.cs
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.csproj.CoreCompileInputs.cache
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicr.2DB2666A.Up2Date
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/refint/TestMicro.Core.Data.dll
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/TestMicro.Core.Data.pdb
+/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Data/obj/Debug/net8.0/ref/TestMicro.Core.Data.dll

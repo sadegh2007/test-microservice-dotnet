@@ -1,0 +1,164 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FluentValidation/11.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Meziantou.Framework.StronglyTypedId/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Meziantou.Framework.StronglyTypedId.Annotations.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Meziantou.Framework.StronglyTypedId.Annotations.dll": {
+            "related": ".deps.json;.xml"
+          }
+        },
+        "build": {
+          "build/Meziantou.Framework.StronglyTypedId.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluentValidation/11.9.0": {
+      "sha512": "VneVlTvwYDkfHV5av3QrQ0amALgrLX6LV94wlYyEsh0B/klJBW7C8y2eAtj5tOZ3jH6CAVpr4s1ZGgew/QWyig==",
+      "type": "package",
+      "path": "fluentvalidation/11.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.9.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "Meziantou.Framework.StronglyTypedId/2.2.0": {
+      "sha512": "YlRfYKmzANGpEiBfQbGY5fYu82/1+GO6gaCuRXT8dyO/K3TL7HQ9BrHB3n4dBjo95AjI6IA3zZzuu9i7Lgo/JQ==",
+      "type": "package",
+      "path": "meziantou.framework.stronglytypedid/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "analyzers/dotnet/cs/Meziantou.Framework.StronglyTypedId.dll",
+        "build/Meziantou.Framework.StronglyTypedId.targets",
+        "icon.png",
+        "lib/net6.0/Meziantou.Framework.StronglyTypedId.Annotations.deps.json",
+        "lib/net6.0/Meziantou.Framework.StronglyTypedId.Annotations.dll",
+        "lib/net6.0/Meziantou.Framework.StronglyTypedId.Annotations.xml",
+        "lib/net7.0/Meziantou.Framework.StronglyTypedId.Annotations.deps.json",
+        "lib/net7.0/Meziantou.Framework.StronglyTypedId.Annotations.dll",
+        "lib/net7.0/Meziantou.Framework.StronglyTypedId.Annotations.xml",
+        "lib/net8.0/Meziantou.Framework.StronglyTypedId.Annotations.deps.json",
+        "lib/net8.0/Meziantou.Framework.StronglyTypedId.Annotations.dll",
+        "lib/net8.0/Meziantou.Framework.StronglyTypedId.Annotations.xml",
+        "lib/netstandard2.0/Meziantou.Framework.StronglyTypedId.Annotations.deps.json",
+        "lib/netstandard2.0/Meziantou.Framework.StronglyTypedId.Annotations.dll",
+        "lib/netstandard2.0/Meziantou.Framework.StronglyTypedId.Annotations.xml",
+        "meziantou.framework.stronglytypedid.2.2.0.nupkg.sha512",
+        "meziantou.framework.stronglytypedid.nuspec",
+        "readme.md"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FluentValidation >= 11.9.0",
+      "Meziantou.Framework.StronglyTypedId >= 2.2.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sadeqhajizadeh/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Shared/TestMicro.Core.Shared.csproj",
+      "projectName": "TestMicro.Core.Shared",
+      "projectPath": "/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Shared/TestMicro.Core.Shared.csproj",
+      "packagesPath": "/Users/sadeqhajizadeh/.nuget/packages/",
+      "outputPath": "/Users/sadeqhajizadeh/Desktop/Projects/C#/TestMicro/src/TestMicro.Core.Shared/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sadeqhajizadeh/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.9.0, )"
+          },
+          "Meziantou.Framework.StronglyTypedId": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

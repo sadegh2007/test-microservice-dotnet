@@ -1,0 +1,6 @@
+@TestMicro.UserManagement.HttpClient_HostAddress = http://localhost:5299
+
+GET {{TestMicro.UserManagement.HttpClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
