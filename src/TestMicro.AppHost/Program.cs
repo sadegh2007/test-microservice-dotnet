@@ -5,7 +5,16 @@ var builder = DistributedApplication.CreateBuilder(args);
 
 var pgMountDir = builder.Configuration.GetValue<string>("PG_MOUNT_DIR");
 
+var rabbitMq = builder.AddRabbitMQContainer("EventBus")
+    .WithAnnotation(new ContainerImageAnnotation
+    {
+        Image = "rabbitmq",
+        Tag = "3-management",
+    });
+
+
 var postgres = builder.AddPostgresContainer("pg", password: "123456")
+    .WithPgAdmin(containerName:"pg-admin")
     .WithAnnotation(new ContainerImageAnnotation
     {
         Image = "postgis/postgis",
@@ -17,9 +26,11 @@ var apiServiceDb = postgres.AddDatabase("ApiServiceDb");
 var usersServiceDb = postgres.AddDatabase("UsersDb");
 
 var usersService = builder.AddProject<Projects.TestMicro_UserManagement>("users")
+    .WithReference(rabbitMq)
     .WithReference(usersServiceDb);
 
 var apiService = builder.AddProject<Projects.TestMicro_HttpApi>("apiService")
+    .WithReference(rabbitMq)
     .WithReference(apiServiceDb)
     .WithReference(usersService);
 
