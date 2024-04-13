@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicro.Core.Exceptions",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicro.UserManagement.HttpClient", "src\TestMicro.UserManagement.HttpClient\TestMicro.UserManagement.HttpClient.csproj", "{1A757EA6-1E3C-49B4-8C0C-F6B3EE8A17A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicro.Core.MassTransit", "src\TestMicro.Core.MassTransit\TestMicro.Core.MassTransit.csproj", "{596145DE-D507-4156-A117-BBAFEAC5F972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMicro.Core.Scheduling.Quartz", "src\TestMicro.Core.Scheduling.Quartz\TestMicro.Core.Scheduling.Quartz.csproj", "{8F873441-A72A-4C31-98C4-31270A4682B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +107,14 @@ Global
 		{1A757EA6-1E3C-49B4-8C0C-F6B3EE8A17A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A757EA6-1E3C-49B4-8C0C-F6B3EE8A17A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A757EA6-1E3C-49B4-8C0C-F6B3EE8A17A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{596145DE-D507-4156-A117-BBAFEAC5F972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596145DE-D507-4156-A117-BBAFEAC5F972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596145DE-D507-4156-A117-BBAFEAC5F972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596145DE-D507-4156-A117-BBAFEAC5F972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F873441-A72A-4C31-98C4-31270A4682B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F873441-A72A-4C31-98C4-31270A4682B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F873441-A72A-4C31-98C4-31270A4682B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F873441-A72A-4C31-98C4-31270A4682B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BA3E6615-7D3B-49F8-AFE2-217E08645031} = {9D2438C6-1F8F-4F79-9223-31A98FC5BD54}
@@ -116,5 +128,7 @@ Global
 		{8656433E-73FC-481C-9109-83089BC01853} = {707F1E5C-2962-4865-ADDF-754BFB61C8A2}
 		{E9544277-BE7D-44C7-BE81-AC19879A12B7} = {707F1E5C-2962-4865-ADDF-754BFB61C8A2}
 		{1A757EA6-1E3C-49B4-8C0C-F6B3EE8A17A0} = {57C171D3-DD13-4E93-8467-FBDB3A2AC70A}
+		{596145DE-D507-4156-A117-BBAFEAC5F972} = {707F1E5C-2962-4865-ADDF-754BFB61C8A2}
+		{8F873441-A72A-4C31-98C4-31270A4682B4} = {707F1E5C-2962-4865-ADDF-754BFB61C8A2}
 	EndGlobalSection
 EndGlobal
